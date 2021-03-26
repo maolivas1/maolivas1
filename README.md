@@ -1,6 +1,6 @@
 - 👋 Hey, i’m Marcus Olivas
 - 📚 Going to school for CS
-- 📫 Discord: MarkViews:0001
+- 📫 Discord: MarkViews#0001
 - ✅ Check out my other GitHub: [@MarkViews](https://github.com/markviews)
 
 <!---
